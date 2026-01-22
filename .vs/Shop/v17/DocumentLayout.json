@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mr046766\\Desktop\\MVC\\Shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C40EC220-4425-4B0C-8C82-B297E972F6C9}|Shop\\Shop.csproj|c:\\users\\mr046766\\desktop\\mvc\\shop\\shop\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C40EC220-4425-4B0C-8C82-B297E972F6C9}|Shop\\Shop.csproj|solutionrelative:shop\\areas\\user\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40EC220-4425-4B0C-8C82-B297E972F6C9}|Shop\\Shop.csproj|c:\\users\\mr046766\\desktop\\mvc\\shop\\shop\\areas\\user\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C40EC220-4425-4B0C-8C82-B297E972F6C9}|Shop\\Shop.csproj|solutionrelative:shop\\areas\\user\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40EC220-4425-4B0C-8C82-B297E972F6C9}|Shop\\Shop.csproj|c:\\users\\mr046766\\desktop\\mvc\\shop\\shop\\areas\\user\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40EC220-4425-4B0C-8C82-B297E972F6C9}|Shop\\Shop.csproj|solutionrelative:shop\\areas\\user\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40EC220-4425-4B0C-8C82-B297E972F6C9}|Shop\\Shop.csproj|c:\\users\\mr046766\\desktop\\mvc\\shop\\shop\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C40EC220-4425-4B0C-8C82-B297E972F6C9}|Shop\\Shop.csproj|solutionrelative:shop\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C40EC220-4425-4B0C-8C82-B297E972F6C9}|Shop\\Shop.csproj|c:\\users\\mr046766\\desktop\\mvc\\shop\\shop\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C40EC220-4425-4B0C-8C82-B297E972F6C9}|Shop\\Shop.csproj|solutionrelative:shop\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mr046766\\Desktop\\MVC\\Shop\\Shop\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mr046766\\Desktop\\MVC\\Shop\\Shop\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Shop\\Areas\\User\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC8AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T11:48:27.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mr046766\\Desktop\\MVC\\Shop\\Shop\\Areas\\User\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Areas\\User\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mr046766\\Desktop\\MVC\\Shop\\Shop\\Areas\\User\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Shop\\Areas\\User\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T11:21:40.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mr046766\\Desktop\\MVC\\Shop\\Shop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mr046766\\Desktop\\MVC\\Shop\\Shop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Shop\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-22T11:20:35.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mr046766\\Desktop\\MVC\\Shop\\Shop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Shop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mr046766\\Desktop\\MVC\\Shop\\Shop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Shop\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:16:16.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mr046766\\Desktop\\MVC\\Shop\\Shop\\Areas\\User\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Shop\\Areas\\User\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mr046766\\Desktop\\MVC\\Shop\\Shop\\Areas\\User\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Shop\\Areas\\User\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-22T11:14:07.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
